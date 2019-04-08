@@ -29,5 +29,6 @@ const jsonp = function(url ,data ){
     },false)
     //4script添加到dom中
     document.body.appendChild(script)
+    
   })
 }
